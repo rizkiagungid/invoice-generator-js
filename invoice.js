@@ -37,7 +37,7 @@ function generateInvoice(invoice, filename, success, error) {
 }
 
 var invoice = {
-    logo: "http://invoiced.com/img/logo-invoice.png",
+    logo: "https://i.ibb.co/PCRRVC3/LOGO-RASXMEDIA.jpg",
     from: "Invoiced\n701 Brazos St\nAustin, TX 78748",
     to: "Johnny Appleseed",
     currency: "usd",
